@@ -4,7 +4,7 @@ Gritcoin is the world's first, only, and best grain-based currency.
 
 # Where do Gritcoin come from?
 
-Coins are created through a process called milling.  It's nature
+Coins are created through a patent-pending process called Milling^tm.  It's nature
 is as mysterious and strange as it is wonderful and erotic.
 
 # THE COB #
