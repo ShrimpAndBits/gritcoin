@@ -1,6 +1,6 @@
 # What you say?
 
-Gritcoin is the world's first, only, and best grain-based currency.
+Gritcoin is the world's first, only, and best gin-based grain-themed currency.
 
 # Where do Gritcoin come from?
 
