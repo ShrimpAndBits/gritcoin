@@ -65,16 +65,16 @@ box where it says "Update THECOB.md".
 
 5. Enter a haiku in the larger box where it says "Add an optional extended description...".
 
-7. Click the green 'Propose file change' button.
+6. Click the green 'Propose file change' button.
 
-8. Click the green 'Create pull request' button.
+7. Click the green 'Create pull request' button.
 
-9. Write some sort of sea-life-related pun in the little box where it says 'Update THECOB.md'.
+8. Write some sort of sea-life-related pun in the little box where it says 'Update THECOB.md'.
 
-10. Put whatever tickles your fancy (or nothing at all) in the larger box where it says
+9. Put whatever tickles your fancy (or nothing at all) in the larger box where it says
 'Leave a comment'.
 
-11. Click the green 'Create pull request' button.
+10. Click the green 'Create pull request' button.
 
 Your niblet is now in the system for processing.  Algorhythms will check that
 the changes are valid before including them into the HEAD of the master branch
