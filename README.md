@@ -1,10 +1,10 @@
 # What you say?
 
-Gritcoin is the world's first, only, and best gin-based grain-themed currency.
+Gritcoin is the world's first, only, and best git-based, grain-themed currency.
 
 # Where do Gritcoin come from?
 
-Coins are created through a patent-pending process called Milling^tm.  It's nature
+Coins are created through a patent-pending process called Milling.  Its nature
 is as mysterious and strange as it is wonderful and erotic.
 
 # THE COB #
@@ -52,10 +52,29 @@ Here are some invalid niblets:
 Got some Gritcoin?  Want to feel the pleasure of giving?  Here's what
 you gotta do.
 
-1. Get a github account and determine your github id.
+1. Load [THE COB](THECOB.md) in your browser.  If you don't have a github account, 
+then make one.  If you do have one, but you ain't logged in, then log in.
 
-2. Log yourself into github in your fancy web browser.
+2. Edit THE COB by clicking the little pencil icon.  This will fork the gritcoin
+respository (if it's your first time) and create a branch.
 
-test1
-test2 - from a writer
-test3
+3. Add your new niblets to the end of THE COB.
+
+4. If you are feeling up to it, enter a short description of your changes in the
+box where it says "Update THECOB.md".
+
+5. Enter a haiku in the larger box where it says "Add an optional extended description...".
+
+7. Click the green 'Propose file change' button.
+
+8. Click the green 'Create pull request' button.
+
+9. Write some sort of sealife-related pun in the little box where it says 'Update THECOB.md'.
+
+10. Put whatever tickles your fancy (or nothing at all) in the larger box where it says
+'Leave a comment'.
+
+Your niblet is now in the system for processing.  Algorhythms will check that
+the changes are valid before including them into the HEAD of the master branch
+of the main repo.  Depending on your github settings, you will probably get an
+email when this happens.
