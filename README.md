@@ -21,7 +21,7 @@ fields of a milling are:
 
    * milling - this literal string
    * number of coins - a positive, non-zero integer
-   * recipient - github username of the recipient of the new coins
+   * recipient - gritcoin username of the recipient of the new coins
    * note - up to 1024 bytes of optional additional text associated with the milling.  OK to contain spaces.
 
 * givings - The transfer of one or more coins from one person to another.
@@ -30,27 +30,32 @@ The fields of a giving are:
    * giving - this literal string
    * number of coins - a positive, non-zero integer
    * donor - github username of the donor of the new coins
-   * recipient - github username of the recipient of the new coins
+   * recipient - gritcoin username of the recipient of the new coins
    * note - up to 1024 bytes of optional additional text associated with the milling.  OK to contain spaces.
+
+Gritcoin usernames come in two flavors:
+
+    * github - a Github username.  Does not start with a '@'.
+    * twitter - a Twitter username.  Must start with a '@'.
 
 A simple version of THE COB might look like:
 
     milling 10 Alice A wonderful bounty for Alice.
-    giving 3 Alice Bob Bob was nice, he gets some coins.
-    milling 5 Bob An oil strike, but not as large as Alice's.
-    giving Bob 8 Alice Bob's wallet is empty, but his heart is full.
+    giving 3 Alice @Bob Bob was nice, he gets some coins.
+    milling 5 @Bob An oil strike, but not as large as Alice's.
+    giving 8 @Bob Alice Bob's wallet is empty, but his heart is full.
 
 Here are some invalid niblets:
 
     monkey 14 Alice Bob Monkey?
-    giving 3.4 Bob Alice No fractions!
+    giving 3.4 @Bob Alice No fractions!
     milling 0 Alice No no-ops!
-    milling -46 Bob That's just silly.
+    milling -46 @Bob That's just silly.
 
 # Making a Transfer #
 
 Got some Gritcoin?  Want to feel the pleasure of giving?  Here's what
-you gotta do.
+you gotta do:
 
 1. Load [THE COB](THECOB.md) in your browser.  If you don't have a github account, 
 then make one.  If you do have one, but you ain't logged in, then log in.
@@ -69,7 +74,7 @@ box where it says "Update THECOB.md".
 
 7. Click the green 'Create pull request' button.
 
-8. Write some sort of sea-life-related pun in the little box where it says 'Update THECOB.md'.
+8. Write some sort of corny pun in the little box where it says 'Update THECOB.md'.
 
 9. Put whatever tickles your fancy (or nothing at all) in the larger box where it says
 'Leave a comment'.
