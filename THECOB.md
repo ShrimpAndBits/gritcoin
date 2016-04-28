@@ -5,3 +5,7 @@
 - giving 3 michaelbuhler TillaTheHun0 blackmail payment
 - milling 1024 mynameismiek ermahgerd ernflershern
 - milling 1 mynameismiek for organizing THE COB's niblets into a more easily parsable format for future gritters
+- giving 32 mynameismiek t3hpr0wn for "the spawning"
+- giving 32 mynameismiek shrimpnbits for "the spawning"
+- giving 8 mynameismiek TillaTheHun0 for being an awesome doug
+- giving 2 mynameismiek michaelbuhler cause I miss his energy
