@@ -1,5 +1,7 @@
-milling 10 t3hpr0wn Initial.
-milling 10 shrimpnbits initial
-giving 10 shrimpnbits michaelbuhler Now you can give it to some deserving characters.
-milling 1 michaelbuhler giving is milling
-giving 3 michaelbuhler TillaTheHun0 blackmail payment
+- milling 10 t3hpr0wn Initial.
+- milling 10 shrimpnbits initial
+- giving 10 shrimpnbits michaelbuhler Now you can give it to some deserving characters.
+- milling 1 michaelbuhler giving is milling
+- giving 3 michaelbuhler TillaTheHun0 blackmail payment
+- milling 1024 mynameismiek ermahgerd ernflershern
+- milling 1 mynameismiek for organizing THE COB's niblets into a more easily parsable format for future gritters
