@@ -6,3 +6,14 @@
 - milling 1024 mynameismiek ermahgerd ernflershern
 - milling 1 mynameismiek for organizing THE COB's niblets into a more easily parsable format for future gritters
 - milling 1 jshipman42 i dont know what this is yet, but miek told me to look at it so I am
+- giving 32 mynameismiek t3hpr0wn for "the spawning"
+- giving 32 mynameismiek shrimpnbits for "the spawning"
+- giving 8 mynameismiek TillaTheHun0 for being an awesome doug
+- giving 2 mynameismiek michaelbuhler cause I miss his energy
+- milling 1 t3hpr0wn spawning and prawning
+- milling 1 shrimpnbits spawning and prawning
+- milling 2 TillaTheHun0 for being an awesome doug
+- milling 1 michaelbuhler for his energy
+- giving 32 tedtanne for swimming out
+- milling 8 tedtanne for swimming out
+
