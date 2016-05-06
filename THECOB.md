@@ -16,4 +16,4 @@
 - milling 1 michaelbuhler for his energy
 - giving 32 tedtanne for swimming out
 - milling 8 tedtanne for swimming out
-
+- milling 12 mynameismiek gritcoin evangelizing on twitter, at the 'water cooler', on white boards around work, fishy friends
