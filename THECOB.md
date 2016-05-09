@@ -16,4 +16,6 @@
 - milling 1 michaelbuhler for his energy
 - giving 32 tedtanne for swimming out
 - milling 8 tedtanne for swimming out
+- giving 10 shrimpnbits castelliam for presenting at syntaxcon
+- milling 2 castelliam for presenting at syntaxcon
 
