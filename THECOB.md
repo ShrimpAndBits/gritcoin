@@ -16,6 +16,8 @@
 - milling 1 michaelbuhler for his energy
 - giving 32 tedtanne for swimming out
 - milling 8 tedtanne for swimming out
+- giving 10 shrimpnbits castelliam for presenting at syntaxcon
+- milling 2 castelliam for presenting at syntaxcon
 - milling 12 mynameismiek gritcoin evangelizing on twitter, at the 'water cooler', on white boards around work, fishy friends
 - giving 1 mynameismiek bobwilliams to grow his beard back
 - giving 1 mynameismiek bubb-rubb to grow a beard
