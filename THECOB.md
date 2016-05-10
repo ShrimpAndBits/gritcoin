@@ -18,4 +18,10 @@
 - milling 8 tedtanne for swimming out
 - giving 10 shrimpnbits castelliam for presenting at syntaxcon
 - milling 2 castelliam for presenting at syntaxcon
-
+- milling 12 mynameismiek gritcoin evangelizing on twitter, at the 'water cooler', on white boards around work, fishy friends
+- giving 1 mynameismiek bobwilliams to grow his beard back
+- giving 1 mynameismiek bubb-rubb to grow a beard
+- giving 1 mynameismiek dfrugg to grow a beard
+- giving 1 mynameismiek bmykietka to grow a beard
+- giving 1 mynameismiek chsWeb to grow a beard and tweet about gritcoin to your many followers
+- giving 1 mynameismiek eXamadeus for having the best beard ever
