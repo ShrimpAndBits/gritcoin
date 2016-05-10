@@ -25,3 +25,9 @@
 - giving 1 mynameismiek bmykietka to grow a beard
 - giving 1 mynameismiek chsWeb to grow a beard and tweet about gritcoin to your many followers
 - giving 1 mynameismiek eXamadeus for having the best beard ever
+- milling 1 bobwilliams to grow his beard back
+- milling 1 bubb-rubb 
+- milling 1 dfrugg 
+- milling 1 bmykietka
+- milling 1 chsWeb
+- milling 1 eXamadeus
