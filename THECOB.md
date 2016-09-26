@@ -32,3 +32,5 @@
 - milling 1 chsWeb
 - milling 1 eXamadeus
 - milling 48 nogginfuel for a positive attitude
+- milling 10 jakelaunchpeer For jellyfish-like transparency.
+- milling 5 Agronis For aggressively passive agression and/or forgiveness.
